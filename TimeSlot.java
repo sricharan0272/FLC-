@@ -3,7 +3,7 @@ package efc.model;
 /**
  * The three daily time windows available for fitness classes.
  * Used to detect scheduling conflicts when a member tries to
- * book two classes at the same time on the same day.
+ * book two classes at the same time on the same day
  */
 public enum TimeSlot {
     MORNING("Morning",   "07:00 – 08:30"),
