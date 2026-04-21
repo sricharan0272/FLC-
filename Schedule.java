@@ -4,7 +4,7 @@ import java.util.*;
 import java.util.stream.Collectors;
 
 /**
- * Holds and queries all {@link ClassSession} objects across all weekends.
+ * Holds and queries all {@link ClassSession} objects across all weekends
  *
  * Acts as an in-memory repository with multi-key lookup capability.
  * Indexed primarily by sessionId; filtered views are derived on demand.
