@@ -6,7 +6,7 @@ import efc.service.BookingManager;
 import java.util.*;
 
 /**
- * Menu-driven command-line interface for the Elite Fitness Club Booking System.
+ * Menu-driven command-line interface for the Elite Fitness Club Booking System
  *
  * Responsibilities:
  *   - Render menus and read validated user input
