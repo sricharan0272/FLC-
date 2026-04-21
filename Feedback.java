@@ -1,7 +1,7 @@
 package efc.model;
 
 /**
- * Post-attendance feedback submitted by a member for a ClassSession.
+ * Post-attendance feedback submitted by a member for a ClassSession
  *
  * Rating scale:
  *   1 = Very Poor  |  2 = Poor  |  3 = Average  |  4 = Good  |  5 = Excellent
